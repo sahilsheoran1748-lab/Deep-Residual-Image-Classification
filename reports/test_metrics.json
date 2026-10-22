@@ -1,0 +1,11 @@
+{
+  "test_samples": 10000,
+  "accuracy": 0.779,
+  "macro_precision": 0.7793,
+  "macro_recall": 0.779,
+  "macro_f1": 0.7771,
+  "macro_roc_auc_ovr": 0.9747,
+  "macro_average_precision": 0.8615,
+  "selected_checkpoint_epoch": 15,
+  "validation_loss_at_checkpoint": 0.6271113224029541
+}
